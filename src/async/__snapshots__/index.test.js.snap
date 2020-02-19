@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`testing async functions can test against rejected promise 1`] = `"something went wrong"`;
+
+exports[`testing async functions can test against resolved promise 1`] = `"success"`;
